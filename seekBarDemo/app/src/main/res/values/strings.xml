@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">seekBarDemo</string>
+    <string name="seekbarMsg">SeekBar 值:</string>
+    <string name="rationbarMsg">RationBar 值:</string>
+</resources>
